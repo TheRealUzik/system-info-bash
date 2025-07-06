@@ -1,6 +1,4 @@
-# README
-
-Script to show the following
+# Script to show the following system information
 
 •	System Hostname 
 •	Operating System 
